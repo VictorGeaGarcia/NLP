@@ -32,7 +32,7 @@ and not containing it.
  `predict_new_sentences.py` applies the created model in new sentences.
  
  --------------
- ##1. Create model
+ ## 1. Create model
  
  Run:
  
