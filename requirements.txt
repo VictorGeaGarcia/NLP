@@ -60,7 +60,7 @@ pytz==2019.1
 PyVCF==0.6.8
 PyYAML==3.13
 requests==2.21.0
-rsa==4.0
+rsa==4.7
 scikit-learn==0.20.3
 scipy==1.2.1
 singledispatch==3.4.0.3
